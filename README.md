@@ -20,7 +20,7 @@ A simple and fun **Snake Game** created using **HTML**, **CSS**, and **JavaScrip
 ---
 
 ## 🚨 How to Play
-1. Use the **arrow keys** to move the snake up, down, left, or right.  
+1. Use the arrow keys to move the snake up, down, left, or right.  
 2. Collect the food to increase your score and grow the snake.  
 3. Avoid colliding with the walls or your own tail.  
 4. Try to achieve the highest score possible!  
@@ -54,7 +54,7 @@ Follow these steps to run the game locally:
 ---
 
 ## 👩‍💻 About the Author
-Hi! I’m Mahendra Nagpure (https://github.com/Mahendra111111)**, an aspiring MERN Stack Developer with a passion for creating interactive web applications and games. 
+Hi! I’m Mahendra Nagpure (https://github.com/Mahendra111111), an aspiring MERN Stack Developer with a passion for creating interactive web applications and games. 
 
 ---
 
@@ -71,7 +71,7 @@ Contributions are always welcome! Feel free to fork the repository and submit a 
 ---
 
 ## ⭐ Show Your Support
-If you enjoyed this project, please give it a ⭐ on [GitHub]([https://github.com/YourUsername/Snake-Game](https://github.com/Mahendra111111/Snake-Game.git)
+If you enjoyed this project, please give it a ⭐ on [GitHub](https://github.com/Mahendra111111/Snake-Game.git)
 
 ---
 
